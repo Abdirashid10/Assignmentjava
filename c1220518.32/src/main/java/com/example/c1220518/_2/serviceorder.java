@@ -1,8 +1,19 @@
 package com.example.c1220518._2;
 
+import java.util.Collection;
+
 public class serviceorder {
 
 
+    public void updateStudent(com.example.c1220518._2.order std, int id) {
+    }
+
+    public void createStudent(com.example.c1220518._2.order std) {
+    }
+
+    public Collection<com.example.c1220518._2.order> getAllStudents() {
+        return null;
+    }
 
     public class order {
         private int orderId;
